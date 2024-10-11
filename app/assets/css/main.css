@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply overflow-x-hidden;
+}
+
+body {
+  @apply min-w-80 relative;
+}
+section {
+  @apply py-20;
+}
+h1,
+h2,
+h3,
+h4 {
+  @apply font-roboto font-bold;
+}
+
+p {
+  @apply text-base md:text-lg;
+}
+#powerData {
+  @apply pt-32;
+}
+
+html {
+  scroll-behavior: smooth;
+}
