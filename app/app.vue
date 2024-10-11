@@ -19,7 +19,7 @@ useSeoMeta({
 </script>
 
 <template>
-  <div>
+  <div id="top">
     <TheHeader />
     <PreLoader v-if="showHideSpinner" />
     <SectionPowerData :section-data="contentData.powerdata" />

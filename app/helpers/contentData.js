@@ -38,22 +38,22 @@ export const contentData = {
     itemsCards: [
       {
         title: 'Advanced Data Analytics',
-        image: 'https://picsum.photos/40',
+        image: '/solution/feat1.svg',
         text: 'Predictive analytics to gain actionable insights and forecast future trends.',
       },
       {
         title: 'Operations with Automation',
-        image: 'https://picsum.photos/40',
+        image: '/solution/feat2.svg',
         text: 'Predictive analytics to gain actionable insights and forecast future trends.',
       },
       {
         title: 'Unlock Insights with NLP',
-        image: 'https://picsum.photos/40',
+        image: '/solution/feat3.svg',
         text: 'Predictive analytics to gain actionable insights and forecast future trends.',
       },
       {
         title: 'Custom AI for Your Needs',
-        image: 'https://picsum.photos/40',
+        image: '/solution/feat4.svg',
         text: 'Predictive analytics to gain actionable insights and forecast future trends.',
       },
     ],
