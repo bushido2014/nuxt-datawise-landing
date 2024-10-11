@@ -1,13 +1,11 @@
 <script setup lang="ts">
 const items = [
-  'https://i.postimg.cc/7L2qnz6w/logo1.png',
-  'https://i.postimg.cc/SsLqwpCP/logo2.png',
-  'https://picsum.photos/160/36',
-  'https://picsum.photos/160/36',
-  'https://picsum.photos/160/36',
-  'https://picsum.photos/160/36',
-  'https://i.postimg.cc/7L2qnz6w/logo1.png',
-  'https://i.postimg.cc/SsLqwpCP/logo2.png',
+  '/partners/logo1.png',
+  '/partners/logo2.png',
+  '/partners/logo3.png',
+  '/partners/logo4.png',
+  '/partners/logo5.png',
+  '/partners/logo6.png',
 ];
 </script>
 
