@@ -1,6 +1,7 @@
 <script setup>
-import { contentData } from '@/helpers/contentData';
 import { ref, onBeforeMount, onMounted } from 'vue';
+  
+import { contentData } from '@/helpers/contentData';  
 const showHideSpinner = ref(true);
 
 onBeforeMount(() => {
