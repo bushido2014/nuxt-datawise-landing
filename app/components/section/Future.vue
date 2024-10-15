@@ -44,7 +44,7 @@ const props = defineProps({
   <section id="future" class="bg-slate-100 dark:bg-neutral-900">
     <div class="container">
       <div class="grid gap-10 grid-cols-1 lg:grid-cols-2">
-        <div class="pr-16 future-content">
+        <div class="pr-16  future-content">
           <h2 class="text-4xl">{{ sectionData.title }}</h2>
           <div class="py-6">
             <p>{{ sectionData.description }}</p>
@@ -73,7 +73,7 @@ const props = defineProps({
 
         <div class="future-img">
           <div class="p-6 border rounded-2xl relative">
-            <img src="https://picsum.photos/600/380" class="rounded-2xl" />
+            <img src="/future-img.png" class="rounded-2xl w-full" />
             <div class="absolute z-10 left-0 bottom-0 bg-white rounded-2xl p-3">
               <div class="flex items-center space-x-4">
                 <USkeleton

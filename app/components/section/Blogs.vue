@@ -40,7 +40,7 @@ const props = defineProps({
           v-for="(item, idx) in sectionData.itemsArticle"
           :key="idx"
         >
-          <img :src="item.img" class="rounded-md" />
+          <img :src="item.img" class="rounded-md w-full" />
           <div class="py-3">
             <div class="uppercase text-sm">{{ item.cat }}</div>
             <p>{{ item.title }}</p>

@@ -65,22 +65,22 @@ export const contentData = {
    data-driven journey.`,
     itemsArticle: [
       {
-        img: 'https://picsum.photos/600',
+        img: '/blog/blog-img1.png',
         cat: 'Report',
         title: `The Rise of AI in Business Analytics: What You Need to Know`,
       },
       {
-        img: 'https://picsum.photos/600',
+        img: '/blog/blog-img2.png',
         cat: 'News',
         title: 'Customizing Your DataWise Dashboard: A Step-by-Step Guide',
       },
       {
-        img: 'https://picsum.photos/600',
+        img: '/blog/blog-img3.png',
         cat: 'News',
         title: 'Customizing Your DataWise Dashboard: A Step-by-Step Guide',
       },
       {
-        img: 'https://picsum.photos/600',
+        img: '/blog/blog-img-4.png',
         cat: 'Report',
         title: 'Customizing Your DataWise Dashboard: A Step-by-Step Guide',
       },
