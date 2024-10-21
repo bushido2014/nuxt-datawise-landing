@@ -87,7 +87,7 @@ const props = defineProps({
 
         <div class="images-container">
           <div class="images-container_inner">
-            <img src="https://i.postimg.cc/rssnHKQ2/img-wrapp.png" />
+            <img src="/img-wrapp.png" />
           </div>
         </div>
       </div>
