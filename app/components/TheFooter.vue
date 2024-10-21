@@ -7,7 +7,7 @@
         <div class="flex items-center">
           <span class="text-2xl font-bold mr-1">DataWise</span>
 
-          <img src="https://i.postimg.cc/PxGrr3Rn/Nimbus-Symbol.png" />
+         <img src="/datawise-logo.png" />
         </div>
         <div>
           <NuxtLink to="https://www.figma.com/@wblekhoa" target="_blank"
